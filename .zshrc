@@ -102,5 +102,4 @@ export ZSH_AUTOSUGGEST_STRATEGY=(
     history
 )
 
-eval $(thefuck --alias doh)
-eval $(thefuck --alias fuck)
+alias k='k -Ah'
